@@ -4,17 +4,25 @@ import ProceduresSection from "@/components/ProceduresSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import { Helmet } from "react-helmet-async";
 
 const Index = () => {
   return (
-    <main>
-      <HeroSection />
-      <AboutSection />
-      <ProceduresSection />
-      <ContactSection />
-      <Footer />
-      <WhatsAppButton />
-    </main>
+    <>
+      <Helmet>
+        <title>Dra. Sara Joca — Médica Radiologista | Ultrassom Dermatológico em Fortaleza</title>
+        <meta name="description" content="Dra. Sara Joca, médica radiologista especialista em ultrassom dermatológico de alta resolução em Fortaleza-CE. Diagnósticos precisos e não invasivos. CRM 16136 • RQE 11838." />
+        <link rel="canonical" href="https://site-sweet-editor.lovable.app/" />
+      </Helmet>
+      <main>
+        <HeroSection />
+        <AboutSection />
+        <ProceduresSection />
+        <ContactSection />
+        <Footer />
+        <WhatsAppButton />
+      </main>
+    </>
   );
 };
 
