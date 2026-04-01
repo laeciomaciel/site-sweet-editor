@@ -1,11 +1,13 @@
 # Dra. Sara Joca — Médica Radiologista
 
 ## Sobre
-Dra. Sara Joca é médica radiologista especialista em ultrassom dermatológico de alta resolução, atuando em Fortaleza, Ceará, Brasil.
+Dra. Sara Joca é médica radiologista titular do Colégio Brasileiro de Radiologia, atuando em Fortaleza, Ceará, Brasil.
+Ultrassom dermatológico e para cirurgias plásticas.
 CRM 16136 • RQE 11838
 
-## Especialidades
+## Áreas de Atuação
 - Ultrassonografia dermatológica de alta resolução
+- Ultrassom para cirurgias plásticas
 - Avaliação detalhada da pele, anexos cutâneos e partes moles
 - Diagnóstico diferencial de lesões cutâneas
 - Estadiamento de neoplasias
