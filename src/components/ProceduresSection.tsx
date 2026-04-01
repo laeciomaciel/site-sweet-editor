@@ -1,53 +1,102 @@
 const procedures = [
   {
     title: "Protocolo Lipedema",
-    description:
-      "Ultrassom dermatológico com doppler de alta frequência.\n\nProtocolo baseado em evidências;\nAvaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
+    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
+    items: [
+      "Protocolo baseado em evidências;",
+      "Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
+    ],
   },
   {
     title: "Protocolo Hidradenite",
-    description:
-      "Ultrassom dermatológico com doppler de alta frequência.\n\nAvaliação pré e pós-operatória;\nEstadiamento com escore mSOS-HS;\nMapeamento detalhado de fístulas, coleções e pseudocistos;\nAnálise inflamatória com Power Doppler;\nLaudo completo com desenhos esquemáticos personalizados.",
+    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
+    items: [
+      "Avaliação pré e pós-operatória;",
+      "Estadiamento com escore mSOS-HS;",
+      "Mapeamento detalhado de fístulas, coleções e pseudocistos;",
+      "Análise inflamatória com Power Doppler;",
+      "Laudo completo com desenhos esquemáticos personalizados.",
+    ],
   },
   {
     title: "Mapeamento Facial",
-    description:
-      "Ultrassonografia dermatológica com doppler.\n\nIdentificação e localização de preenchedores, bioestimuladores e fios;\nPlanejamento pré-operatório e controle pós-operatório;\nDiagnóstico de complicações.",
+    subtitle: "Ultrassonografia dermatológica com doppler.",
+    items: [
+      "Identificação e localização de preenchedores, bioestimuladores e fios;",
+      "Planejamento pré-operatório e controle pós-operatório;",
+      "Diagnóstico de complicações.",
+    ],
   },
   {
     title: "Mapeamento Cervical",
-    description:
-      "Ultrassonografia dermatológica com doppler.\n\nPlanejamento pré e pós procedimentos como lipo de papada, lifting e Deep Plane;\nAvaliação anatômica completa da região submentoniana e cervical;\nEstudo da musculatura cervical;\nMedição do volume e posicionamento das glândulas submandibulares;\nQuantificação da gordura pré e pós-platismal;\nDiagnóstico de complicações.",
+    subtitle: "Ultrassonografia dermatológica com doppler.",
+    items: [
+      "Planejamento pré e pós procedimentos como lipo de papada, lifting e Deep Plane;",
+      "Avaliação anatômica completa da região submentoniana e cervical;",
+      "Estudo da musculatura cervical;",
+      "Medição do volume e posicionamento das glândulas submandibulares;",
+      "Quantificação da gordura pré e pós-platismal;",
+      "Diagnóstico de complicações.",
+    ],
   },
   {
     title: "Mapeamento Abdominal",
-    description:
-      "Ultrassonografia dermatológica com doppler.\n\nAvaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);\nMensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;\nMedição das distâncias dos músculos abdominais;\nPesquisa de hérnias de parede abdominal.",
+    subtitle: "Ultrassonografia dermatológica com doppler.",
+    items: [
+      "Avaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);",
+      "Mensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;",
+      "Medição das distâncias dos músculos abdominais;",
+      "Pesquisa de hérnias de parede abdominal.",
+    ],
   },
   {
     title: "Protocolo Glúteo",
-    description:
-      "Ultrassonografia dermatológica com doppler.\n\nMapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;\nAvaliação da espessura do tecido adiposo subcutâneo;\nDetecção de preenchedores, bioestimuladores e possíveis complicações.",
+    subtitle: "Ultrassonografia dermatológica com doppler.",
+    items: [
+      "Mapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;",
+      "Avaliação da espessura do tecido adiposo subcutâneo;",
+      "Detecção de preenchedores, bioestimuladores e possíveis complicações.",
+    ],
   },
   {
     title: "Protocolo Unha",
-    description:
-      "Ultrassonografia dermatológica com doppler.\n\nAvaliação detalhada de placas, matriz, leito e dobras ungueais;\nInvestigação de tumores, inflamações e infecções;\nEstudo da cortical óssea e articulação distal;\nDoppler para análise inflamatória e vascularização anômala.",
+    subtitle: "Ultrassonografia dermatológica com doppler.",
+    items: [
+      "Avaliação detalhada de placas, matriz, leito e dobras ungueais;",
+      "Investigação de tumores, inflamações e infecções;",
+      "Estudo da cortical óssea e articulação distal;",
+      "Doppler para análise inflamatória e vascularização anômala.",
+    ],
   },
   {
     title: "Protocolo Melanoma e Tumores Cutâneos",
-    description:
-      "Ultrassonografia dermatológica com doppler de alta frequência.\n\nDelimitação precisa da lesão;\nAvaliação de profundidade, margens e planos acometidos;\nCaracterização ecográfica: composição, ecogenicidade, vascularização;\nEstudo de estruturas adjacentes (vasos, nervos, articulações);\nPesquisa de metástases: satélite, em trânsito e linfonodal.",
+    subtitle: "Ultrassonografia dermatológica com doppler de alta frequência.",
+    items: [
+      "Delimitação precisa da lesão;",
+      "Avaliação de profundidade, margens e planos acometidos;",
+      "Caracterização ecográfica: composição, ecogenicidade, vascularização;",
+      "Estudo de estruturas adjacentes (vasos, nervos, articulações);",
+      "Pesquisa de metástases: satélite, em trânsito e linfonodal.",
+    ],
   },
   {
     title: "Protocolo Tumores de Partes Moles",
-    description:
-      "Ultrassonografia dermatológica com doppler.\n\nAvaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;\nMedição precisa das dimensões e profundidade em relação à epiderme;\nAnálise da relação com estruturas adjacentes;\nEstudo Doppler para estudo da vascularização.",
+    subtitle: "Ultrassonografia dermatológica com doppler.",
+    items: [
+      "Avaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;",
+      "Medição precisa das dimensões e profundidade em relação à epiderme;",
+      "Análise da relação com estruturas adjacentes;",
+      "Estudo Doppler para estudo da vascularização.",
+    ],
   },
   {
     title: "Protocolo Nervos Periféricos – Hanseníase",
-    description:
-      "Ultrassonografia de nervos periféricos com doppler.\n\nProtocolo fundamental na investigação de neuropatia periférica;\nAvaliação dos nervos ulnar, mediano, fibular comum e tibial;\nEstudo com Power Doppler para avaliar atividade inflamatória.",
+    subtitle: "Ultrassonografia de nervos periféricos com doppler.",
+    items: [
+      "Protocolo fundamental na investigação de neuropatia periférica;",
+      "Avaliação dos nervos ulnar, mediano, fibular comum e tibial;",
+      "Estudo com Power Doppler para avaliar atividade inflamatória.",
+    ],
   },
 ];
 
@@ -70,9 +119,16 @@ const ProceduresSection = () => {
               <h3 className="text-lg font-heading font-semibold text-foreground mb-4">
                 {proc.title}
               </h3>
-              <p className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify whitespace-pre-line">
-                {proc.description}
+              <p className="text-sm text-muted-foreground/80 font-body font-medium leading-relaxed text-justify mb-3">
+                {proc.subtitle}
               </p>
+              <ul className="space-y-1">
+                {proc.items.map((item, i) => (
+                  <li key={i} className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify">
+                    {item}
+                  </li>
+                ))}
+              </ul>
             </div>
           ))}
         </div>
