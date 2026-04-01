@@ -1,4 +1,4 @@
-import { MapPin, Phone, Mail, Clock } from "lucide-react";
+import { MapPin, Phone, Mail, Clock, Star } from "lucide-react";
 
 const ContactSection = () => {
   const mapUrl = "https://www.google.com/maps/place/Av.+Santos+Dumont,+5753+-+Papicu,+Fortaleza+-+CE";
@@ -81,6 +81,25 @@ const ContactSection = () => {
               referrerPolicy="no-referrer-when-downgrade"
               title="Localização da Clínica"
             />
+          </a>
+        </div>
+
+        {/* Avalie meu atendimento */}
+        <div className="mt-16 text-center">
+          <h3 className="text-2xl md:text-3xl font-heading font-medium text-foreground mb-4">
+            Avalie meu atendimento
+          </h3>
+          <p className="text-muted-foreground font-body font-light text-sm mb-6">
+            Sua opinião é muito importante para mim. Deixe sua avaliação no Google.
+          </p>
+          <a
+            href="https://search.google.com/local/writereview?placeid=ChIJK7kN9h0xeGoRhDeu_5hf1O8"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-8 py-3 border border-foreground/60 text-foreground font-body text-sm tracking-widest uppercase hover:bg-foreground/5 transition-all duration-300"
+          >
+            <Star className="w-4 h-4" />
+            Avaliar no Google
           </a>
         </div>
       </div>
