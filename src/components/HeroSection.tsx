@@ -15,10 +15,10 @@ const HeroSection = () => {
             Dra. Sara <span className="font-bold">Joca</span>
           </h1>
           <p className="text-lg md:text-xl text-primary-foreground/80 font-body font-light mb-2">
-            Médica Radiologista
+            Médica Radiologista Titular do Colégio Brasileiro de Radiologia
           </p>
           <p className="text-base md:text-lg text-primary-foreground/70 font-body font-light mb-2">
-            Especialista em Ultrassom Dermatológico
+            Ultrassom dermatológico e para Cirurgias Plásticas
           </p>
           <p className="text-sm text-primary-foreground/50 font-body tracking-widest uppercase mb-8">
             CRM 16136 • RQE 11838 — Fortaleza, CE
