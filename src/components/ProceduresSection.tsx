@@ -2,7 +2,7 @@ const procedures = [
   {
     title: "Protocolo Lipedema",
     description:
-      "Ultrassom dermatológico com doppler de alta frequência.\nProtocolo baseado em evidências;\nAvaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
+      "Ultrassom dermatológico com doppler de alta frequência.\n\nProtocolo baseado em evidências;\nAvaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
   },
   {
     title: "Protocolo Hidradenite",
