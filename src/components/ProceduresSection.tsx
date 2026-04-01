@@ -2,52 +2,52 @@ const procedures = [
   {
     title: "Protocolo Lipedema",
     description:
-      "Avaliação ultrassonográfica detalhada do tecido subcutâneo para diagnóstico e estadiamento do lipedema, diferenciando-o de outras condições como linfedema e obesidade, auxiliando no planejamento terapêutico adequado.",
+      "Ultrassom dermatológico com doppler de alta frequência.\nProtocolo baseado em evidências;\nAvaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
   },
   {
     title: "Protocolo Hidradenite",
     description:
-      "Mapeamento por ultrassom das lesões da hidradenite supurativa, identificando trajetos fistulosos, abscessos e coleções profundas, essencial para classificação da doença e planejamento cirúrgico.",
+      "Ultrassom dermatológico com doppler de alta frequência.\n\nAvaliação pré e pós-operatória;\nEstadiamento com escore mSOS-HS;\nMapeamento detalhado de fístulas, coleções e pseudocistos;\nAnálise inflamatória com Power Doppler;\nLaudo completo com desenhos esquemáticos personalizados.",
   },
   {
     title: "Mapeamento Facial",
     description:
-      "Avaliação ultrassonográfica de alta resolução das estruturas faciais, incluindo localização de preenchedores, análise de camadas cutâneas e identificação de alterações, auxiliando em procedimentos estéticos e dermatológicos.",
+      "Ultrassonografia dermatológica com doppler.\n\nIdentificação e localização de preenchedores, bioestimuladores e fios;\nPlanejamento pré-operatório e controle pós-operatório;\nDiagnóstico de complicações.",
   },
   {
     title: "Mapeamento Cervical",
     description:
-      "Estudo detalhado por imagem da região cervical, avaliando pele, subcutâneo e estruturas superficiais para diagnóstico de lesões, planejamento de procedimentos e acompanhamento de tratamentos.",
+      "Ultrassonografia dermatológica com doppler.\n\nPlanejamento pré e pós procedimentos como lipo de papada, lifting e Deep Plane;\nAvaliação anatômica completa da região submentoniana e cervical;\nEstudo da musculatura cervical;\nMedição do volume e posicionamento das glândulas submandibulares;\nQuantificação da gordura pré e pós-platismal;\nDiagnóstico de complicações.",
   },
   {
     title: "Mapeamento Abdominal",
     description:
-      "Avaliação ultrassonográfica da parede abdominal e tecido subcutâneo, útil para identificação de hérnias, diástases, localização de materiais estéticos e planejamento de procedimentos corporais.",
+      "Ultrassonografia dermatológica com doppler.\n\nAvaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);\nMensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;\nMedição das distâncias dos músculos abdominais;\nPesquisa de hérnias de parede abdominal.",
   },
   {
     title: "Protocolo Glúteo",
     description:
-      "Avaliação por imagem da região glútea para localização de implantes e preenchedores, identificação de complicações e acompanhamento pós-procedimentos estéticos com segurança e precisão.",
+      "Ultrassonografia dermatológica com doppler.\n\nMapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;\nAvaliação da espessura do tecido adiposo subcutâneo;\nDetecção de preenchedores, bioestimuladores e possíveis complicações.",
   },
   {
     title: "Protocolo Unha",
     description:
-      "Estudo ultrassonográfico do aparelho ungueal, avaliando leito, matriz e estruturas periungueais para diagnóstico de tumores, doenças inflamatórias, alterações de crescimento e lesões traumáticas.",
+      "Ultrassonografia dermatológica com doppler.\n\nAvaliação detalhada de placas, matriz, leito e dobras ungueais;\nInvestigação de tumores, inflamações e infecções;\nEstudo da cortical óssea e articulação distal;\nDoppler para análise inflamatória e vascularização anômala.",
   },
   {
     title: "Protocolo Melanoma e Tumores Cutâneos",
     description:
-      "Avaliação por ultrassom de alta frequência para estadiamento locorregional de melanomas e tumores cutâneos, determinando profundidade, margens e comprometimento de estruturas adjacentes para planejamento cirúrgico.",
+      "Ultrassonografia dermatológica com doppler de alta frequência.\n\nDelimitação precisa da lesão;\nAvaliação de profundidade, margens e planos acometidos;\nCaracterização ecográfica: composição, ecogenicidade, vascularização;\nEstudo de estruturas adjacentes (vasos, nervos, articulações);\nPesquisa de metástases: satélite, em trânsito e linfonodal.",
   },
   {
     title: "Protocolo Tumores de Partes Moles",
     description:
-      "Diagnóstico e caracterização de tumores subcutâneos e de partes moles por ultrassonografia, diferenciando lesões benignas de suspeitas, com avaliação de vascularização e relação com estruturas vizinhas.",
+      "Ultrassonografia dermatológica com doppler.\n\nAvaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;\nMedição precisa das dimensões e profundidade em relação à epiderme;\nAnálise da relação com estruturas adjacentes;\nEstudo Doppler para estudo da vascularização.",
   },
   {
     title: "Protocolo Nervos Periféricos – Hanseníase",
     description:
-      "Avaliação ultrassonográfica dos nervos periféricos para detecção de espessamento neural, alterações inflamatórias e comprometimento causado pela hanseníase, auxiliando no diagnóstico precoce e monitoramento do tratamento.",
+      "Ultrassonografia de nervos periféricos com doppler.\n\nProtocolo fundamental na investigação de neuropatia periférica;\nAvaliação dos nervos ulnar, mediano, fibular comum e tibial;\nEstudo com Power Doppler para avaliar atividade inflamatória.",
   },
 ];
 
@@ -70,7 +70,7 @@ const ProceduresSection = () => {
               <h3 className="text-lg font-heading font-semibold text-foreground mb-4">
                 {proc.title}
               </h3>
-              <p className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify">
+              <p className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify whitespace-pre-line">
                 {proc.description}
               </p>
             </div>

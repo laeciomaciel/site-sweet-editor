@@ -10,8 +10,8 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Dra. Sara Joca — Médica Radiologista | Ultrassom Dermatológico em Fortaleza</title>
-        <meta name="description" content="Dra. Sara Joca, médica radiologista especialista em ultrassom dermatológico de alta resolução em Fortaleza-CE. Diagnósticos precisos e não invasivos. CRM 16136 • RQE 11838." />
+        <title>Dra. Sara Joca — Médica Radiologista | Ultrassom Dermatológico e para Cirurgias Plásticas em Fortaleza</title>
+        <meta name="description" content="Dra. Sara Joca, médica radiologista titular do Colégio Brasileiro de Radiologia. Ultrassom dermatológico e para cirurgias plásticas em Fortaleza-CE. CRM 16136 • RQE 11838." />
         <link rel="canonical" href="https://site-sweet-editor.lovable.app/" />
       </Helmet>
       <main>
