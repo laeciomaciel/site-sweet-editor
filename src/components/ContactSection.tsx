@@ -48,7 +48,7 @@ const ContactSection = () => {
                 <p className="text-muted-foreground font-body font-light text-sm">
                   Ligações: <a href="tel:+5585991528353" className="underline hover:text-foreground transition-colors">(85) 9 9152-8353</a>
                 </p>
-                <p className="text-muted-foreground font-body font-light text-sm">
+                <p className="text-muted-foreground font-body font-light text-sm mt-2">
                   WhatsApp: <a href="https://wa.me/5585992260983" target="_blank" rel="noopener noreferrer" className="underline hover:text-foreground transition-colors">(85) 99226-0983</a>
                 </p>
               </div>

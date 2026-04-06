@@ -1,7 +1,6 @@
 const procedures = [
   {
     title: "Protocolo Lipedema",
-    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
     items: [
       "Protocolo baseado em evidências;",
       "Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
@@ -9,7 +8,6 @@ const procedures = [
   },
   {
     title: "Protocolo Hidradenite",
-    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
     items: [
       "Avaliação pré e pós-operatória;",
       "Estadiamento com escore mSOS-HS;",
@@ -20,7 +18,6 @@ const procedures = [
   },
   {
     title: "Mapeamento Facial",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
       "Identificação e localização de preenchedores, bioestimuladores e fios;",
       "Planejamento pré-operatório e controle pós-operatório;",
@@ -29,7 +26,6 @@ const procedures = [
   },
   {
     title: "Mapeamento Cervical",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
       "Planejamento pré e pós procedimentos como lipo de papada, lifting e Deep Plane;",
       "Avaliação anatômica completa da região submentoniana e cervical;",
@@ -41,7 +37,6 @@ const procedures = [
   },
   {
     title: "Mapeamento Abdominal",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
       "Avaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);",
       "Mensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;",
@@ -51,7 +46,6 @@ const procedures = [
   },
   {
     title: "Protocolo Glúteo",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
       "Mapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;",
       "Avaliação da espessura do tecido adiposo subcutâneo;",
@@ -60,7 +54,6 @@ const procedures = [
   },
   {
     title: "Protocolo Unha",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
       "Avaliação detalhada de placas, matriz, leito e dobras ungueais;",
       "Investigação de tumores, inflamações e infecções;",
@@ -70,7 +63,6 @@ const procedures = [
   },
   {
     title: "Protocolo Melanoma e Tumores Cutâneos",
-    subtitle: "Ultrassonografia dermatológica com doppler de alta frequência.",
     items: [
       "Delimitação precisa da lesão;",
       "Avaliação de profundidade, margens e planos acometidos;",
@@ -81,7 +73,6 @@ const procedures = [
   },
   {
     title: "Protocolo Tumores de Partes Moles",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
       "Avaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;",
       "Medição precisa das dimensões e profundidade em relação à epiderme;",
@@ -90,8 +81,16 @@ const procedures = [
     ],
   },
   {
+    title: "Protocolo Morfeia (Esclerodermia)",
+    items: [
+      "Avaliação da extensão clínica e subclínica e monitoramento evolutivo;",
+      "Estadiamento de atividade com o escore mUS-MAS;",
+      "Análise da atividade inflamatória com Doppler;",
+      "Laudo estruturado completo com desenhos esquemáticos do mapeamento corporal.",
+    ],
+  },
+  {
     title: "Protocolo Nervos Periféricos – Hanseníase",
-    subtitle: "Ultrassonografia de nervos periféricos com doppler.",
     items: [
       "Protocolo fundamental na investigação de neuropatia periférica;",
       "Avaliação dos nervos ulnar, mediano, fibular comum e tibial;",
@@ -119,13 +118,11 @@ const ProceduresSection = () => {
               <h3 className="text-lg font-heading font-semibold text-foreground mb-4">
                 {proc.title}
               </h3>
-              <p className="text-sm text-muted-foreground/80 font-body font-medium leading-relaxed text-justify mb-3">
-                {proc.subtitle}
-              </p>
               <ul className="space-y-1">
                 {proc.items.map((item, i) => (
-                  <li key={i} className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify">
-                    {item}
+                  <li key={i} className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify flex items-start gap-2">
+                    <span className="shrink-0 mt-0.5">•</span>
+                    <span>{item}</span>
                   </li>
                 ))}
               </ul>
