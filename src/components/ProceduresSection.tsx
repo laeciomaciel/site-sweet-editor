@@ -62,10 +62,10 @@ const procedures = [
     title: "Protocolo Unha",
     subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
-      "Avaliação detalhada de placas, matriz, leito e dobras ungueais;",
-      "Investigação de tumores, inflamações e infecções;",
-      "Estudo da cortical óssea e articulação distal;",
-      "Doppler para análise inflamatória e vascularização anômala.",
+      "• Avaliação detalhada de placas, matriz, leito e dobras ungueais;",
+      "• Investigação de tumores, inflamações e infecções;",
+      "• Estudo da cortical óssea e articulação distal;",
+      "• Doppler para análise inflamatória e vascularização anômala.",
     ],
   },
   {
