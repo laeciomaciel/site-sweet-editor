@@ -31,12 +31,12 @@ const procedures = [
     title: "Mapeamento Cervical",
     subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
-      "Planejamento pré e pós procedimentos como lipo de papada, lifting e Deep Plane;",
-      "Avaliação anatômica completa da região submentoniana e cervical;",
-      "Estudo da musculatura cervical;",
-      "Medição do volume e posicionamento das glândulas submandibulares;",
-      "Quantificação da gordura pré e pós-platismal;",
-      "Diagnóstico de complicações.",
+      "• Planejamento pré e pós procedimentos como lipo de papada, lifting e Deep Plane;",
+      "• Avaliação anatômica completa da região submentoniana e cervical;",
+      "• Estudo da musculatura cervical;",
+      "• Medição do volume e posicionamento das glândulas submandibulares;",
+      "• Quantificação da gordura pré e pós-platismal;",
+      "• Diagnóstico de complicações.",
     ],
   },
   {
