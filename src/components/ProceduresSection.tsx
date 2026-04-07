@@ -72,11 +72,11 @@ const procedures = [
     title: "Protocolo Melanoma e Tumores Cutâneos",
     subtitle: "Ultrassonografia dermatológica com doppler de alta frequência.",
     items: [
-      "Delimitação precisa da lesão;",
-      "Avaliação de profundidade, margens e planos acometidos;",
-      "Caracterização ecográfica: composição, ecogenicidade, vascularização;",
-      "Estudo de estruturas adjacentes (vasos, nervos, articulações);",
-      "Pesquisa de metástases: satélite, em trânsito e linfonodal.",
+      "• Delimitação precisa da lesão;",
+      "• Avaliação de profundidade, margens e planos acometidos;",
+      "• Caracterização ecográfica: composição, ecogenicidade, vascularização;",
+      "• Estudo de estruturas adjacentes (vasos, nervos, articulações);",
+      "• Pesquisa de metástases: satélite, em trânsito e linfonodal.",
     ],
   },
   {
