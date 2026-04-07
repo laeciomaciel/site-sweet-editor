@@ -17,7 +17,7 @@ const HeroSection = () => {
           <p className="text-lg md:text-xl text-primary-foreground/80 font-body font-light mb-1">
             Médica Radiologista
           </p>
-          <p className="text-sm text-primary-foreground/50 font-body tracking-widest uppercase mb-6">
+          <p className="text-sm text-primary-foreground/50 font-body tracking-widest mb-6">
             Titular do Colégio Brasileiro de Radiologia (CBR)
           </p>
           <p className="text-base md:text-lg text-primary-foreground/70 font-body font-light mb-2">
