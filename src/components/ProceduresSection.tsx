@@ -11,11 +11,11 @@ const procedures = [
     title: "Protocolo Hidradenite",
     subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
     items: [
-      "Avaliação pré e pós-operatória;",
-      "Estadiamento com escore mSOS-HS;",
-      "Mapeamento detalhado de fístulas, coleções e pseudocistos;",
-      "Análise inflamatória com Power Doppler;",
-      "Laudo completo com desenhos esquemáticos personalizados.",
+      "• Avaliação pré e pós-operatória;",
+      "• Estadiamento com escore mSOS-HS;",
+      "• Mapeamento detalhado de fístulas, coleções e pseudocistos;",
+      "• Análise inflamatória com Power Doppler;",
+      "• Laudo completo com desenhos esquemáticos personalizados.",
     ],
   },
   {
