@@ -3,8 +3,8 @@ const procedures = [
     title: "Protocolo Lipedema",
     subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
     items: [
-      "Protocolo baseado em evidências;",
-      "Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
+      "• Protocolo baseado em evidências;",
+      "• Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
     ],
   },
   {
