@@ -53,9 +53,9 @@ const procedures = [
     title: "Protocolo Glúteo",
     subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
-      "Mapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;",
-      "Avaliação da espessura do tecido adiposo subcutâneo;",
-      "Detecção de preenchedores, bioestimuladores e possíveis complicações.",
+      "• Mapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;",
+      "• Avaliação da espessura do tecido adiposo subcutâneo;",
+      "• Detecção de preenchedores, bioestimuladores e possíveis complicações.",
     ],
   },
   {
