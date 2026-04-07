@@ -22,9 +22,9 @@ const procedures = [
     title: "Mapeamento Facial",
     subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
-      "Identificação e localização de preenchedores, bioestimuladores e fios;",
-      "Planejamento pré-operatório e controle pós-operatório;",
-      "Diagnóstico de complicações.",
+      "• Identificação e localização de preenchedores, bioestimuladores e fios;",
+      "• Planejamento pré-operatório e controle pós-operatório;",
+      "• Diagnóstico de complicações.",
     ],
   },
   {
