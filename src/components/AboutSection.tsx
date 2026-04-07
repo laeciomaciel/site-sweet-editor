@@ -15,6 +15,9 @@ const AboutSection = () => {
           </div>
 
           <div>
+            <h6 className="text-xs tracking-[0.3em] uppercase text-muted-foreground font-body mb-3">
+              Sobre
+            </h6>
             <h2 className="text-3xl md:text-4xl font-heading font-medium text-foreground mb-8">
               Currículo
             </h2>
