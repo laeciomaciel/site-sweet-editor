@@ -43,10 +43,10 @@ const procedures = [
     title: "Mapeamento Abdominal",
     subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
-      "Avaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);",
-      "Mensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;",
-      "Medição das distâncias dos músculos abdominais;",
-      "Pesquisa de hérnias de parede abdominal.",
+      "• Avaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);",
+      "• Mensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;",
+      "• Medição das distâncias dos músculos abdominais;",
+      "• Pesquisa de hérnias de parede abdominal.",
     ],
   },
   {
