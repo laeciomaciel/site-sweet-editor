@@ -93,9 +93,42 @@ const procedures = [
     title: "Protocolo Nervos Periféricos – Hanseníase",
     subtitle: "Ultrassonografia de nervos periféricos com doppler.",
     items: [
-      "Protocolo fundamental na investigação de neuropatia periférica;",
-      "Avaliação dos nervos ulnar, mediano, fibular comum e tibial;",
-      "Estudo com Power Doppler para avaliar atividade inflamatória.",
+      "• Protocolo fundamental na investigação de neuropatia periférica;",
+      "• Avaliação dos nervos ulnar, mediano, fibular comum e tibial;",
+      "• Estudo com Power Doppler para avaliar atividade inflamatória.",
+    ],
+  },
+  {
+    title: "Protocolo US-10 (Artrite Reumatóide)",
+    subtitle: "Ultrassom Reumatológico com Doppler de Alta Frequência.",
+    items: [
+      "• Avaliação e monitoramento da artrite reumatoide em fase inicial.",
+      "• Avaliação padronizada de punhos, articulações metacarpofalângicas e interfalângicas proximais.",
+      "• Detecção de parâmetros de danos articulares, como erosão óssea e danos na cartilagem.",
+      "• Análise de parâmetros inflamatórios com Power Doppler.",
+      "• Laudo completo com graduação dos achados.",
+    ],
+  },
+  {
+    title: "Protocolo MASEI (Ultrassom de ênteses)",
+    subtitle: "Ultrassom Reumatológico com Doppler de Alta Frequência.",
+    items: [
+      "• Auxílio no diagnóstico precoce de espondiloartrites.",
+      "• Avaliação bilateral de 12 sítios entesares (cotovelos, joelhos e calcanhares).",
+      "• Detecção de danos estruturais crônicos e erosões.",
+      "• Análise de atividade inflamatória com Power Doppler.",
+      "• Laudo detalhado com o cálculo do escore de risco.",
+    ],
+  },
+  {
+    title: "Protocolo Articular Dirigido",
+    subtitle: "Ultrassom Reumatológico com Doppler de Alta Frequência.",
+    items: [
+      "• Avaliação focada e detalhada da queixa clínica do paciente.",
+      "• Detecção precoce de sinovite, tenossinovite e derrame articular.",
+      "• Análise de danos estruturais (erosões ósseas e lesões de cartilagem).",
+      "• Mapeamento da atividade inflamatória aguda com Power Doppler.",
+      "• Laudo minucioso para guiar a conduta terapêutica individualizada.",
     ],
   },
 ];
