@@ -2,6 +2,7 @@ const procedures = [
   {
     title: "Protocolo Lipedema",
     items: [
+      "Protocolo baseado em evidências;",
       "Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
     ],
   },
