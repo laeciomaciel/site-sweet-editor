@@ -83,10 +83,10 @@ const procedures = [
     title: "Protocolo Tumores de Partes Moles",
     subtitle: "Ultrassonografia dermatológica com doppler.",
     items: [
-      "Avaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;",
-      "Medição precisa das dimensões e profundidade em relação à epiderme;",
-      "Análise da relação com estruturas adjacentes;",
-      "Estudo Doppler para estudo da vascularização.",
+      "• Avaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;",
+      "• Medição precisa das dimensões e profundidade em relação à epiderme;",
+      "• Análise da relação com estruturas adjacentes;",
+      "• Estudo Doppler para estudo da vascularização.",
     ],
   },
   {
