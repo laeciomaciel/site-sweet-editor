@@ -130,6 +130,7 @@ const procedures = [
       "• Mapeamento da atividade inflamatória aguda com Power Doppler.",
       "• Laudo minucioso para guiar a conduta terapêutica individualizada.",
     ],
+    },
 {                               
     title: "Hialuronidase Guiada",
     subtitle: "Ultrassom Dermatológico com Doppler de Alta Frequência.",
