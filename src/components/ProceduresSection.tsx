@@ -130,14 +130,16 @@ const procedures = [
       "• Mapeamento da atividade inflamatória aguda com Power Doppler.",
       "• Laudo minucioso para guiar a conduta terapêutica individualizada.",
     ],
-  },
-  title: "Hialuronidase Guiada",
+{                               
+    title: "Hialuronidase Guiada",
     subtitle: "Ultrassom Dermatológico com Doppler de Alta Frequência.",
     items: [
       "• Tratamento de intercorrências: Dissolução de nódulos, migrações e Edema Tardio (ETIP) por ácido hialurônico.",
       "• Preparo pré-cirúrgico: Dissolução estratégica de ácido hialurônico para cirurgias (ex: Lifting Facial).",
       "• Segurança: Visualização da agulha ou cânula em tempo real durante a injeção da enzima.",
       "• Análise detalhada: Identificação da profundidade e do volume do produto a ser degradado.",
+    ],
+  },                              
 ];
 
 const ProceduresSection = () => {
