@@ -149,7 +149,7 @@ const ProceduresSection = () => {
       <div className="container mx-auto px-6 md:px-12 lg:px-24">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-heading font-medium text-foreground">
-            Procedimentos
+            Aplicações e Protocolos de Imagem
           </h2>
         </div>
 
