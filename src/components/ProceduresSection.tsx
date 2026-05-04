@@ -158,12 +158,12 @@ const ProceduresSection = () => {
           {procedures.map((proc, index) => (
             <div
               key={index}
-              className="bg-background p-8 border border-border hover:shadow-lg transition-shadow duration-300"
+              className="bg-background p-8 border border-border hover:shadow-lg transition-shadow duration-300 flex flex-col items-center text-center"
             >
               <h3 className="text-lg font-heading font-semibold text-foreground mb-4">
                 {proc.title}
               </h3>
-              <p className="text-sm text-muted-foreground/80 font-body font-medium leading-relaxed text-justify mb-3">
+              <p className="text-xs text-muted-foreground/80 font-body font-bold leading-relaxed mb-3">
                 {proc.subtitle}
               </p>
               <ul className="space-y-1">
