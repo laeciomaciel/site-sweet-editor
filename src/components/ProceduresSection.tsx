@@ -65,13 +65,13 @@ const procedures = [
     ],
   },
   {
-    title: "Protocolo Unha",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    title: "Protocolo Ungueal (Unha)",
+    subtitle: "Ultrassonografia Dermatológica com Doppler",
     items: [
-      "• Avaliação detalhada de placas, matriz, leito e dobras ungueais;",
-      "• Investigação de tumores, inflamações e infecções;",
-      "• Estudo da cortical óssea e articulação distal;",
-      "• Doppler para análise inflamatória e vascularização anômala.",
+      "• **Análise Estrutural Completa:** Avaliação detalhada da matriz, leito e placa ungueal.",
+      "• **Diagnóstico de Lesões:** Investigação de tumores (como o tumor glômico), processos inflamatórios e infecciosos.",
+      "• **Avaliação Osteoarticular:** Estudo da cortical óssea da falange distal e da articulação adjacente.",
+      "• **Mapeamento Vascular:** Uso do Doppler para identificar vascularização anômala e quantificar a atividade inflamatória.",
     ],
   },
   {
