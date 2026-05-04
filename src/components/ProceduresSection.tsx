@@ -41,9 +41,10 @@ const procedures = [
     title: "Protocolo Glúteo",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Mapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;",
-      "• Avaliação da espessura do tecido adiposo subcutâneo;",
-      "• Detecção de preenchedores, bioestimuladores e possíveis complicações.",
+      "• **Mapeamento por Quadrantes:** Avaliação detalhada das regiões glúteas, flancos e coxas proximais, com mensuração precisa da espessura do tecido adiposo.",
+      "• **Identificação de Injetáveis:** Detecção e localização de preenchedores (incluindo substâncias permanentes) e bioestimuladores de colágeno.",
+      "• **Gestão de Complicações:** Diagnóstico assertivo de processos inflamatórios, nódulos ou outras intercorrências pós-procedimento.",
+      "• **Laudos Iconográficos:** Guia visual personalizado com a distribuição dos materiais e camadas teciduais, facilitando a correlação clínica.",
     ],
   },
   {
