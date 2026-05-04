@@ -1,7 +1,7 @@
 const procedures = [
   {
     title: "Protocolo Lipedema",
-    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Protocolo baseado em evidências;",
       "• Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
@@ -9,7 +9,7 @@ const procedures = [
   },
   {
     title: "Protocolo Hidradenite",
-    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Avaliação pré e pós-operatória;",
       "• Estadiamento com escore mSOS-HS;",
