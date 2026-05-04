@@ -56,14 +56,12 @@ const procedures = [
     ],
   },
   {
-    title: "Protocolo Hidradenite",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    title: "Protocolo Hidradenite Supurativa",
+    subtitle: "Ultrassonografia Dermatológica com Doppler",
     items: [
-      "• Avaliação pré e pós-operatória;",
-      "• Estadiamento com escore mSOS-HS;",
-      "• Mapeamento detalhado de fístulas, coleções e pseudocistos;",
-      "• Análise inflamatória com Power Doppler;",
-      "• Laudo completo com desenhos esquemáticos personalizados.",
+      "• **Estadiamento:** Classificação detalhada utilizando o escore mSOS-HS, fundamental para a definição da conduta clínica ou cirúrgica.",
+      "• **Mapeamento Anatômico:** Identificação minuciosa de fístulas, coleções e pseudocistos, com avaliação da atividade inflamatória pelo Power Doppler.",
+      "• **Laudos Iconográficos:** Desenhos esquemáticos personalizados que facilitam a correlação clínica imediata.",
     ],
   },
   {
