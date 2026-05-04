@@ -85,13 +85,13 @@ const procedures = [
     ],
   },
   {
-    title: "Protocolo Tumores de Partes Moles",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    title: "Tumores de Partes Moles",
+    subtitle: "Ultrassonografia Dermatológica com Doppler",
     items: [
-      "• Avaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;",
-      "• Medição precisa das dimensões e profundidade em relação à epiderme;",
-      "• Análise da relação com estruturas adjacentes;",
-      "• Estudo Doppler para estudo da vascularização.",
+      "• **Caracterização de Lesões:** Avaliação de lesões cutâneas e subcutâneas, diferenciando componentes sólidos, císticos ou mistos.",
+      "• **Mensuração:** Medição detalhada das dimensões e da profundidade da lesão em relação aos planos anatômicos.",
+      "• **Mapeamento Topográfico:** Análise da relação de proximidade com estruturas adjacentes, essencial para o planejamento cirúrgico.",
+      "• **Análise Vascular:** Estudo pelo Doppler para avaliar o padrão de vascularização, auxiliando na distinção diagnóstica e na graduação da atividade da lesão.",
     ],
   },
   {
