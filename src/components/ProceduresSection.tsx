@@ -169,7 +169,9 @@ const ProceduresSection = () => {
               <ul className="space-y-1">
                 {proc.items.map((item, i) => (
                   <li key={i} className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify">
-                    {item}
+                    {item.split('**').map((part, index) => 
+                      index % 2 === 1 ? <strong key={index} className="font-semibold">{part}</strong> : part
+                    )}
                   </li>
                 ))}
               </ul>
