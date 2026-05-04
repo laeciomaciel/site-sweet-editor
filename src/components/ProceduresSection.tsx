@@ -75,14 +75,13 @@ const procedures = [
     ],
   },
   {
-    title: "Protocolo Melanoma e Tumores Cutâneos",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    title: "Melanoma e Tumores Cutâneos",
+    subtitle: "Ultrassonografia Dermatológica com Doppler",
     items: [
-      "• Delimitação precisa da lesão;",
-      "• Avaliação de profundidade, margens e planos acometidos;",
-      "• Caracterização ecográfica: composição, ecogenicidade, vascularização;",
-      "• Estudo de estruturas adjacentes (vasos, nervos, articulações);",
-      "• Pesquisa de metástases: satélite, em trânsito e linfonodal.",
+      "• **Mapeamento Pré-Operatório:** Delimitação da lesão, com avaliação de profundidade (espessura), margens e planos anatômicos acometidos.",
+      "• **Caracterização Ecográfica:** Análise detalhada da composição, ecogenicidade e padrão de vascularização da lesão através do Doppler de alta frequência.",
+      "• **Relação Anatômica:** Estudo da proximidade com estruturas adjacentes críticas, como vasos e articulações.",
+      "• **Pesquisa de Metástases:** Investigação direcionada de metástases satélites, em trânsito e avaliação da morfologia linfonodal (linfonodo regional).",
     ],
   },
   {
