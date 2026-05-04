@@ -1,7 +1,7 @@
 const procedures = [
   {
     title: "Protocolo Lipedema",
-    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Protocolo baseado em evidências;",
       "• Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
@@ -9,7 +9,7 @@ const procedures = [
   },
   {
     title: "Protocolo Hidradenite",
-    subtitle: "Ultrassom dermatológico com doppler de alta frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Avaliação pré e pós-operatória;",
       "• Estadiamento com escore mSOS-HS;",
@@ -30,7 +30,7 @@ const procedures = [
   },
   {
     title: "Mapeamento Cervical",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Planejamento pré e pós procedimentos como lipo de papada, lifting e Deep Plane;",
       "• Avaliação anatômica completa da região submentoniana e cervical;",
@@ -42,7 +42,7 @@ const procedures = [
   },
   {
     title: "Mapeamento Abdominal",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Avaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);",
       "• Mensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;",
@@ -52,7 +52,7 @@ const procedures = [
   },
   {
     title: "Protocolo Glúteo",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Mapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;",
       "• Avaliação da espessura do tecido adiposo subcutâneo;",
@@ -61,7 +61,7 @@ const procedures = [
   },
   {
     title: "Protocolo Unha",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Avaliação detalhada de placas, matriz, leito e dobras ungueais;",
       "• Investigação de tumores, inflamações e infecções;",
@@ -71,7 +71,7 @@ const procedures = [
   },
   {
     title: "Protocolo Melanoma e Tumores Cutâneos",
-    subtitle: "Ultrassonografia dermatológica com doppler de alta frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Delimitação precisa da lesão;",
       "• Avaliação de profundidade, margens e planos acometidos;",
@@ -82,7 +82,7 @@ const procedures = [
   },
   {
     title: "Protocolo Tumores de Partes Moles",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Avaliação de lesões cutâneas e subcutâneas de características sólidas ou císticas;",
       "• Medição precisa das dimensões e profundidade em relação à epiderme;",
@@ -92,7 +92,7 @@ const procedures = [
   },
   {
     title: "Protocolo Nervos Periféricos – Hanseníase",
-    subtitle: "Ultrassonografia de nervos periféricos com doppler.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Protocolo fundamental na investigação de neuropatia periférica;",
       "• Avaliação dos nervos ulnar, mediano, fibular comum e tibial;",
@@ -101,7 +101,7 @@ const procedures = [
   },
   {
     title: "Protocolo US-10 (Artrite Reumatóide)",
-    subtitle: "Ultrassom Reumatológico com Doppler de Alta Frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Avaliação e monitoramento da artrite reumatoide em fase inicial.",
       "• Avaliação padronizada de punhos, articulações metacarpofalângicas e interfalângicas proximais.",
@@ -112,7 +112,7 @@ const procedures = [
   },
   {
     title: "Protocolo MASEI (Ultrassom de ênteses)",
-    subtitle: "Ultrassom Reumatológico com Doppler de Alta Frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Auxílio no diagnóstico precoce de espondiloartrites.",
       "• Avaliação bilateral de 12 sítios entesares (cotovelos, joelhos e calcanhares).",
@@ -123,7 +123,7 @@ const procedures = [
   },
   {
     title: "Protocolo Articular Dirigido",
-    subtitle: "Ultrassom Reumatológico com Doppler de Alta Frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Avaliação focada e detalhada da queixa clínica do paciente.",
       "• Detecção precoce de sinovite, tenossinovite e derrame articular.",
@@ -131,17 +131,17 @@ const procedures = [
       "• Mapeamento da atividade inflamatória aguda com Power Doppler.",
       "• Laudo minucioso para guiar a conduta terapêutica individualizada.",
     ],
-    },
-{                               
+  },
+  {
     title: "Hialuronidase Guiada",
-    subtitle: "Ultrassom Dermatológico com Doppler de Alta Frequência.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
       "• Tratamento de intercorrências: Dissolução de nódulos, migrações e Edema Tardio (ETIP) por ácido hialurônico.",
       "• Preparo pré-cirúrgico: Dissolução estratégica de ácido hialurônico para cirurgias (ex: Lifting Facial).",
       "• Segurança: Visualização da agulha ou cânula em tempo real durante a injeção da enzima.",
       "• Análise detalhada: Identificação da profundidade e do volume do produto a ser degradado.",
     ],
-  },                              
+  },
 ];
 
 const ProceduresSection = () => {
