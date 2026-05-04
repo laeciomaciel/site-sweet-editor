@@ -16,7 +16,7 @@ const AboutSection = () => {
 
           <div>
             <h2 className="text-3xl md:text-4xl font-heading font-medium text-foreground mb-8">
-              Currículo
+              Perfil Profissional e Atuação
             </h2>
             <p className="text-muted-foreground font-body font-light leading-relaxed mb-6 text-justify">
               Atuo em Fortaleza–CE com foco em ultrassonografia dermatológica de alta resolução, aplicando tecnologia de ponta para avaliação detalhada da pele, anexos cutâneos e partes moles. Meu objetivo é fornecer diagnósticos precisos, seguros e não invasivos, contribuindo para uma abordagem clínica mais assertiva.
