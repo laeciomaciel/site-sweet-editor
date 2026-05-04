@@ -31,10 +31,10 @@ const procedures = [
     title: "Mapeamento Abdominal",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Avaliação pré e pós-procedimentos (lipoaspiração/abdominoplastia);",
-      "• Mensuração da gordura subcutânea e registro ilustrativo por regiões abdominais, fornecendo mais precisão cirúrgica;",
-      "• Medição das distâncias dos músculos abdominais;",
-      "• Pesquisa de hérnias de parede abdominal.",
+      "• **Suporte em Lipoaspiração e Abdominoplastia:** Avaliação pré e pós-operatória detalhada para maior segurança e previsibilidade ao cirurgião.",
+      "• **Mensuração da gordura subcutânea:** Registro da espessura por regiões abdominais, otimizando o planejamento cirúrgico e o refinamento de resultados.",
+      "• **Avaliação da Parede Abdominal:** Pesquisa de hérnias e medição da distância dos músculos (diástase), auxiliando na decisão da técnica cirúrgica.",
+      "• **Laudos Iconográficos:** Registro ilustrativo das camadas e regiões abdominais, facilitando a correlação anatômica no pré e pós-operatório.",
     ],
   },
   {
