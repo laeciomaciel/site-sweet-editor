@@ -3,10 +3,10 @@ const procedures = [
     title: "Mapeamento Facial",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Identificação de injetáveis prévios: Localização e identificação de preenchedores, bioestimuladores e fios faciais.",
-      "• Segurança pré-procedimento: Planejamento estratégico para minimizar riscos e elevar a previsibilidade cirúrgica e estética.",
-      "• Gestão de complicações: Diagnóstico diferencial assertivo de intercorrências e complicações estéticas.",
-      "• Laudos Iconográficos: Guia visual com ilustrações didáticas da face, facilitando a correlação clínica imediata.",
+      "• **Identificação de injetáveis prévios:** Localização e identificação de preenchedores, bioestimuladores e fios faciais.",
+      "• **Segurança pré-procedimento:** Planejamento estratégico para minimizar riscos e elevar a previsibilidade cirúrgica e estética.",
+      "• **Gestão de complicações:** Diagnóstico diferencial assertivo de intercorrências e complicações estéticas.",
+      "• **Laudos Iconográficos:** Guia visual com ilustrações didáticas da face, facilitando a correlação clínica imediata.",
     ],
   },
   {
@@ -169,7 +169,9 @@ const ProceduresSection = () => {
               <ul className="space-y-1">
                 {proc.items.map((item, i) => (
                   <li key={i} className="text-sm text-muted-foreground font-body font-light leading-relaxed text-justify">
-                    {item}
+                    {item.split('**').map((part, index) => 
+                      index % 2 === 1 ? <strong key={index} className="font-semibold">{part}</strong> : part
+                    )}
                   </li>
                 ))}
               </ul>
