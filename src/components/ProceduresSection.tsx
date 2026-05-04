@@ -123,13 +123,12 @@ const procedures = [
   },
   {
     title: "Protocolo Articular Dirigido",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    subtitle: "Ultrassonografia Reumatológica com Doppler",
     items: [
-      "• Avaliação focada e detalhada da queixa clínica do paciente.",
-      "• Detecção precoce de sinovite, tenossinovite e derrame articular.",
-      "• Análise de danos estruturais (erosões ósseas e lesões de cartilagem).",
-      "• Mapeamento da atividade inflamatória aguda com Power Doppler.",
-      "• Laudo minucioso para guiar a conduta terapêutica individualizada.",
+      "• **Avaliação Focada:** Análise detalhada e dirigida à queixa clínica específica do paciente, possibilitando um diagnóstico mais assertivo.",
+      "• **Detecção Precoce:** Identificação de sinovite, tenossinovite, erosões ósseas e derrames articulares em estágios iniciais.",
+      "• **Mapeamento Inflamatório:** Uso do Power Doppler para quantificar a atividade inflamatória aguda, essencial para guiar a conduta terapêutica imediata.",
+      "• **Laudo Individualizado:** Relatório técnico e orientado para o suporte à decisão clínica do médico assistente.",
     ],
   },
 ];
