@@ -19,13 +19,13 @@ const AboutSection = () => {
               Perfil Profissional e Atuação
             </h2>
             <p className="text-muted-foreground font-body font-light leading-relaxed mb-6 text-justify">
-              Atuo em Fortaleza–CE com foco em ultrassonografia dermatológica de alta resolução, aplicando tecnologia de ponta para avaliação detalhada da pele, anexos cutâneos e partes moles. Meu objetivo é fornecer diagnósticos precisos, seguros e não invasivos, contribuindo para uma abordagem clínica mais assertiva.
+              Com atuação em ultrassonografia de alta resolução em Fortaleza, ofereço suporte diagnóstico avançado para as áreas de Dermatologia, Reumatologia e Cirurgia Plástica. Através da tecnologia de alta frequência, realizo o mapeamento não invasivo de pele, partes moles e articulações, fornecendo a base necessária para condutas seguras e planejamentos estéticos.
             </p>
             <p className="text-muted-foreground font-body font-light leading-relaxed mb-6 text-justify">
-              Possuo expertise no diagnóstico diferencial de lesões cutâneas, estadiamento de neoplasias, acompanhamento de doenças inflamatórias e avaliação de procedimentos estéticos e suas complicações.
+              Minha metodologia de trabalho redefine o exame de imagem tradicional: cada procedimento é uma consulta radiológica completa. Com um tempo de atendimento diferenciado, priorizo a escuta ativa e a precisão técnica em cada etapa. Os resultados são apresentados por meio de laudos iconográficos, que utilizam ilustrações didáticas para traduzir achados complexos em informações visuais claras, facilitando o entendimento imediato do médico solicitante.
             </p>
             <p className="text-muted-foreground font-body font-light leading-relaxed mb-6 text-justify">
-              Trabalho de forma integrada com dermatologistas, cirurgiões plásticos e reumatologistas, oferecendo suporte diagnóstico especializado e individualizado, sempre centrado nas necessidades de cada paciente.
+              Mais do que entregar laudos, minha missão é promover a integração com a equipe médica. Mantenho um canal de comunicação aberto e ágil para a discussão de casos, de modo que o suporte radiológico atue como um aliado estratégico na busca pelo melhor desfecho clínico para cada paciente.
             </p>
             <p className="text-sm text-muted-foreground/70 font-body">
               CRM 16136 • RQE 11838
