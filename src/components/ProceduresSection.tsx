@@ -13,10 +13,9 @@ const procedures = [
     title: "Hialuronidase Guiada",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Tratamento de intercorrências: Dissolução de nódulos, migrações e Edema Tardio (ETIP) por ácido hialurônico.",
-      "• Preparo pré-cirúrgico: Dissolução estratégica de ácido hialurônico para cirurgias (ex: Lifting Facial).",
-      "• Segurança: Visualização da agulha ou cânula em tempo real durante a injeção da enzima.",
-      "• Análise detalhada: Identificação da profundidade e do volume do produto a ser degradado.",
+      "• **Gestão de Intercorrências:** Dissolução de nódulos, correção de migrações e tratamento de Edema Tardio Intermitente e Persistente (ETIP) por ácido hialurônico.",
+      "• **Preparo Pré-Cirúrgico:** Degradação estratégica de ácido hialurônico para otimizar resultados em cirurgias de face, como o Lifting e Deep Plane.",
+      "• **Segurança Intervencionista:** Visualização da agulha ou cânula em tempo real, possibilitando que a enzima seja injetada sobre o depósito do produto.",
     ],
   },
   {
