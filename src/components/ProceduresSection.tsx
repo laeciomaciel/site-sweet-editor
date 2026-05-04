@@ -20,11 +20,12 @@ const procedures = [
   },
   {
     title: "Mapeamento Facial",
-    subtitle: "Ultrassonografia dermatológica com doppler.",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Identificação e localização de preenchedores, bioestimuladores e fios;",
-      "• Planejamento pré-operatório e controle pós-operatório;",
-      "• Diagnóstico de complicações.",
+      "• Identificação de injetáveis prévios: Localização e identificação de preenchedores, bioestimuladores e fios faciais.",
+      "• Segurança pré-procedimento: Planejamento estratégico para minimizar riscos e elevar a previsibilidade cirúrgica e estética.",
+      "• Gestão de complicações: Diagnóstico diferencial assertivo de intercorrências e complicações estéticas.",
+      "• Laudos Iconográficos: Guia visual com ilustrações didáticas da face, facilitando a correlação clínica imediata.",
     ],
   },
   {
@@ -157,12 +158,12 @@ const ProceduresSection = () => {
           {procedures.map((proc, index) => (
             <div
               key={index}
-              className="bg-background p-8 border border-border hover:shadow-lg transition-shadow duration-300"
+              className="bg-background p-8 border border-border hover:shadow-lg transition-shadow duration-300 flex flex-col items-center text-center"
             >
               <h3 className="text-lg font-heading font-semibold text-foreground mb-4">
                 {proc.title}
               </h3>
-              <p className="text-sm text-muted-foreground/80 font-body font-medium leading-relaxed text-justify mb-3">
+              <p className="text-xs text-muted-foreground/80 font-body font-bold leading-relaxed mb-3">
                 {proc.subtitle}
               </p>
               <ul className="space-y-1">
