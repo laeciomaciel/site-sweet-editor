@@ -113,14 +113,12 @@ const procedures = [
     ],
   },
   {
-    title: "Protocolo MASEI (Ultrassom de ênteses)",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    title: "Protocolo MASEI (Ultrassonografia de Ênteses)",
+    subtitle: "Ultrassonografia Reumatológica com Doppler",
     items: [
-      "• Auxílio no diagnóstico precoce de espondiloartrites.",
-      "• Avaliação bilateral de 12 sítios entesares (cotovelos, joelhos e calcanhares).",
-      "• Detecção de danos estruturais crônicos e erosões.",
-      "• Análise de atividade inflamatória with Power Doppler.",
-      "• Laudo detalhado com o cálculo do escore de risco.",
+      "• **Diagnóstico de Espondiloartrites:** Protocolo para o diagnóstico precoce e o rastreio de entesites clínicas e subclínicas.",
+      "• **Avaliação Sistematizada:** Estudo bilateral de 12 sítios entesares (cotovelos, joelhos e calcanhares), fornecendo uma análise ampla e comparativa.",
+      "• **Escore de Risco e Atividade:** Laudo técnico com o cálculo do escore MASEI e análise de atividade inflamatória pelo Power Doppler.",
     ],
   },
   {
