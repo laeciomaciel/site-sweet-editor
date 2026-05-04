@@ -104,14 +104,12 @@ const procedures = [
     ],
   },
   {
-    title: "Protocolo US-10 (Artrite Reumatóide)",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    title: "Artrite Reumatoide (Protocolo US-10)",
+    subtitle: "Ultrassonografia Reumatológica com Doppler",
     items: [
-      "• Avaliação e monitoramento da artrite reumatoide em fase inicial.",
-      "• Avaliação padronizada de punhos, articulações metacarpofalângicas e interfalângicas proximais.",
-      "• Detecção de parâmetros de danos articulares, como erosão óssea e danos na cartilagem.",
-      "• Análise de parâmetros inflamatórios com Power Doppler.",
-      "• Laudo completo com graduação dos achados.",
+      "• **Monitoramento Precoce:** Protocolo especializado para a avaliação diagnóstica e o acompanhamento da atividade inflamatória em fases iniciais da doença.",
+      "• **Avaliação Sistematizada:** Exame padronizado de punhos, articulações metacarpofalângicas e interfalângicas proximais.",
+      "• **Quantificação Inflamatória:** Análise detalhada com Power Doppler para graduação da sinovite, fornecendo dados objetivos para o ajuste da terapêutica.",
     ],
   },
   {
