@@ -95,12 +95,12 @@ const procedures = [
     ],
   },
   {
-    title: "Protocolo Nervos Periféricos – Hanseníase",
+    title: "Nervos Periféricos (Hanseníase)",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Protocolo fundamental na investigação de neuropatia periférica;",
-      "• Avaliação dos nervos ulnar, mediano, fibular comum e tibial;",
-      "• Estudo com Power Doppler para avaliar atividade inflamatória.",
+      "• **Investigação de Neuropatias:** Protocolo fundamental para o estudo de neuropatias periféricas.",
+      "• **Mapeamento Neural Estrutural:** Avaliação da morfologia e espessura dos nervos ulnar, mediano, fibular comum e tibial.",
+      "• **Análise de Atividade Inflamatória:** Uso do Power Doppler para identificar hipervascularização intraneural, auxiliando no diagnóstico de neurites e estados reacionais.",
     ],
   },
   {
