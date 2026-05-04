@@ -1,24 +1,5 @@
 const procedures = [
   {
-    title: "Protocolo Lipedema",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
-    items: [
-      "• Protocolo baseado em evidências;",
-      "• Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
-    ],
-  },
-  {
-    title: "Protocolo Hidradenite",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
-    items: [
-      "• Avaliação pré e pós-operatória;",
-      "• Estadiamento com escore mSOS-HS;",
-      "• Mapeamento detalhado de fístulas, coleções e pseudocistos;",
-      "• Análise inflamatória com Power Doppler;",
-      "• Laudo completo com desenhos esquemáticos personalizados.",
-    ],
-  },
-  {
     title: "Mapeamento Facial",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
@@ -26,6 +7,16 @@ const procedures = [
       "• Segurança pré-procedimento: Planejamento estratégico para minimizar riscos e elevar a previsibilidade cirúrgica e estética.",
       "• Gestão de complicações: Diagnóstico diferencial assertivo de intercorrências e complicações estéticas.",
       "• Laudos Iconográficos: Guia visual com ilustrações didáticas da face, facilitando a correlação clínica imediata.",
+    ],
+  },
+  {
+    title: "Hialuronidase Guiada",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    items: [
+      "• Tratamento de intercorrências: Dissolução de nódulos, migrações e Edema Tardio (ETIP) por ácido hialurônico.",
+      "• Preparo pré-cirúrgico: Dissolução estratégica de ácido hialurônico para cirurgias (ex: Lifting Facial).",
+      "• Segurança: Visualização da agulha ou cânula em tempo real durante a injeção da enzima.",
+      "• Análise detalhada: Identificação da profundidade e do volume do produto a ser degradado.",
     ],
   },
   {
@@ -57,6 +48,25 @@ const procedures = [
       "• Mapeamento dos quadrantes glúteos, dos flancos e das regiões proximais das coxas;",
       "• Avaliação da espessura do tecido adiposo subcutâneo;",
       "• Detecção de preenchedores, bioestimuladores e possíveis complicações.",
+    ],
+  },
+  {
+    title: "Protocolo Lipedema",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    items: [
+      "• Protocolo baseado em evidências;",
+      "• Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
+    ],
+  },
+  {
+    title: "Protocolo Hidradenite",
+    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
+    items: [
+      "• Avaliação pré e pós-operatória;",
+      "• Estadiamento com escore mSOS-HS;",
+      "• Mapeamento detalhado de fístulas, coleções e pseudocistos;",
+      "• Análise inflamatória com Power Doppler;",
+      "• Laudo completo com desenhos esquemáticos personalizados.",
     ],
   },
   {
@@ -117,7 +127,7 @@ const procedures = [
       "• Auxílio no diagnóstico precoce de espondiloartrites.",
       "• Avaliação bilateral de 12 sítios entesares (cotovelos, joelhos e calcanhares).",
       "• Detecção de danos estruturais crônicos e erosões.",
-      "• Análise de atividade inflamatória com Power Doppler.",
+      "• Análise de atividade inflamatória with Power Doppler.",
       "• Laudo detalhado com o cálculo do escore de risco.",
     ],
   },
@@ -130,16 +140,6 @@ const procedures = [
       "• Análise de danos estruturais (erosões ósseas e lesões de cartilagem).",
       "• Mapeamento da atividade inflamatória aguda com Power Doppler.",
       "• Laudo minucioso para guiar a conduta terapêutica individualizada.",
-    ],
-  },
-  {
-    title: "Hialuronidase Guiada",
-    subtitle: "Ultrassonografia de Alta Resolução com Doppler",
-    items: [
-      "• Tratamento de intercorrências: Dissolução de nódulos, migrações e Edema Tardio (ETIP) por ácido hialurônico.",
-      "• Preparo pré-cirúrgico: Dissolução estratégica de ácido hialurônico para cirurgias (ex: Lifting Facial).",
-      "• Segurança: Visualização da agulha ou cânula em tempo real durante a injeção da enzima.",
-      "• Análise detalhada: Identificação da profundidade e do volume do produto a ser degradado.",
     ],
   },
 ];
