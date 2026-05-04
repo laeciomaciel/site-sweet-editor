@@ -3,10 +3,10 @@ const procedures = [
     title: "Mapeamento Facial",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Identificação de injetáveis prévios: Localização e identificação de preenchedores, bioestimuladores e fios faciais.",
-      "• Segurança pré-procedimento: Planejamento estratégico para minimizar riscos e elevar a previsibilidade cirúrgica e estética.",
-      "• Gestão de complicações: Diagnóstico diferencial assertivo de intercorrências e complicações estéticas.",
-      "• Laudos Iconográficos: Guia visual com ilustrações didáticas da face, facilitando a correlação clínica imediata.",
+      "• **Identificação de injetáveis prévios:** Localização e identificação de preenchedores, bioestimuladores e fios faciais.",
+      "• **Segurança pré-procedimento:** Planejamento estratégico para minimizar riscos e elevar a previsibilidade cirúrgica e estética.",
+      "• **Gestão de complicações:** Diagnóstico diferencial assertivo de intercorrências e complicações estéticas.",
+      "• **Laudos Iconográficos:** Guia visual com ilustrações didáticas da face, facilitando a correlação clínica imediata.",
     ],
   },
   {
