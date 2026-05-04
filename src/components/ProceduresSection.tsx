@@ -51,8 +51,8 @@ const procedures = [
     title: "Protocolo Lipedema",
     subtitle: "Ultrassonografia de Alta Resolução com Doppler",
     items: [
-      "• Protocolo baseado em evidências;",
-      "• Avaliação personalizada e mapeamento da gordura subcutânea em pontos estratégicos.",
+      "• **Mensuração Padronizada:** Avaliação da espessura do tecido adiposo em pontos específicos baseada em evidências científicas, permitindo a classificação do estágio da doença.",
+      "• **Análise Evolutiva:** Monitoramento detalhado da resposta ao tratamento ao longo do tempo, auxiliando na tomada de decisão clínica e na individualização da terapêutica.",
     ],
   },
   {
